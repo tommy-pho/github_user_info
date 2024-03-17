@@ -47,5 +47,5 @@ Public Repositories: 8
 
 If you encounter any issues with the GitHub User Info Fetcher script or have any questions, feel free to reach out for support:
 
-- Email: tfoe01@gmail.com
+- Email: tommypho02@gmail.com
 - GitHub Issues: [github-user-info/issues](https://github.com/tommy-pho/github-user-info/issues)
